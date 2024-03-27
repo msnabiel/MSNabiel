@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MSNabiel
+- 👋 Hi, I’m @msnabiel
 - 👀 I’m interested in python
 - 🌱 I’m currently learning Tensorflow
 - 💞️ I’m looking to collaborate on ...

@@ -10,6 +10,10 @@ Anything tech-related, from software development to the latest trends in ML. I l
 ### ☄️ Fun fact
 I have keen interest and a follower in the world's Geopolitics , Economics and Finance. I am passionate about nature, yearning to explore the world, and I have aspirations of becoming an equestrian.
 
+### ✉️ Connect with me - [msyednabiel@gmail.com](mailto:msyednabiel@gmail.com)
+
+
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 

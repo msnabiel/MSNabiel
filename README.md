@@ -8,7 +8,7 @@ The uncharted territories of CoreML, LLM's, AI/ML, Swift, & DSA to push the boun
 Anything tech-related, from software development to the latest trends in ML. I love to have a good conversation about it.
 
 ### ☄️ Fun fact
-I have keen interest and a follower in the world's Geopolitics , Economics and Finance. I am passionate about nature, yearning to explore the world, and I have aspirations of becoming an equestrian.
+I have a keen interest in and follow the world's Geopolitics, Economics, and Finance. I am passionate about nature, yearning to explore the world, and I have aspirations of becoming an equestrian.
 
 ### ✉️ Connect with me - [msyednabiel@gmail.com](mailto:msyednabiel@gmail.com)
 

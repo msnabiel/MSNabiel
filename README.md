@@ -15,7 +15,7 @@ I have a keen interest in and follow the world's Geopolitics, Economics, and Fin
 
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)<br>
 
 ## 🌐 Socials
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/msnabiel) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/msnabiel) 

@@ -2,7 +2,7 @@
 
 
 ### 🔭  I’m currently working, learning and exploring 
-Exploring the uncharted territories of CoreML, LLM's, AI/ML, Swift, & DSA to push the boundaries of innovation and creativity.
+The uncharted territories of CoreML, LLM's, AI/ML, Swift, & DSA to push the boundaries of innovation and creativity.
 
 ### 💬 Ask me about
 Anything tech-related, from software development to the latest trends in ML. I love a good conversation about it.
